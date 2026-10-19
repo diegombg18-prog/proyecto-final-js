@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cafetera Express Pro",
+    "precio": 350,
+    "categoria": "Electrodomésticos",
+    "imagen": "./assets/img/cafe-negro.avif"
+  },
+  {
+    "id": 2,
+    "nombre": "Molinillo de Café",
+    "precio": 120,
+    "categoria": "Accesorios",
+    "imagen": "./assets/img/molino-cafe.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Prensa Francesa 1L",
+    "precio": 45,
+    "categoria": "Utensilios",
+    "imagen": "./assets/img/prensa-francesa.png"
+  }
+]
